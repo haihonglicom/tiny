@@ -1,5 +1,7 @@
 # @haihongli/tiny
 
+![npm (scoped)](https://img.shields.io/npm/v/@haihongli/tiny)
+
 Removes all spaces from a string.
 
 ## Install
